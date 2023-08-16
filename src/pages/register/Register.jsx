@@ -17,7 +17,7 @@ const Register = () => {
         </div>
         <div className="right">
           <h1>Welcome To the New World.</h1>
-          <p>Join us on a journey to redefine how you connect, share, and engage with others. Experience the next generation of social media with our app, designed to bring people closer and make every moment count</p>
+          <p>Embark on a journey with us to explore our planet's beauty, diversity, and enchanting stories. Join our blog for captivating narratives, stunning imagery, and travel tips that spark wanderlust and create unforgettable adventures.</p>
           <span>Do you have an account?</span>
           <Link to="/login">
           <button>Login</button>

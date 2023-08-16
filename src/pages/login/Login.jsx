@@ -8,9 +8,7 @@ const Login = () => {
         <div className="left">
           <h1>Hello World.</h1>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero cum,
-            alias totam numquam ipsa exercitationem dignissimos, error nam,
-            consequatur.
+          Step into a world of awe-inspiring experiences and breathtaking destinations. Join us on a voyage of discovery where every corner of the globe becomes a story waiting to be told. 
           </p>
           <span>Don't you have an account?</span>
           <Link to="/register">
